@@ -13,8 +13,12 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@uobservables/core": "^0.1.0",
+    "@uobservables/react": "^0.1.0"
   },
-  "peerDependencies": {},
+  "peerDependencies": {
+    "react": ">=17"
+  },
   "devDependencies": {
   },
   "keywords": [],

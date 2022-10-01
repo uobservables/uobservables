@@ -13,7 +13,9 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {
+    "react": ">=17"
+  },
   "devDependencies": {},
   "files": [
     "src",
