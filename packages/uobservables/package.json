@@ -9,7 +9,7 @@
   "umd:main": "dist/uobservables.umd.min.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo",
+    "test": "TS_NODE_PROJECT=../../tsconfig.test.json jest",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
