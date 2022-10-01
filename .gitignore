@@ -1,5 +1,19 @@
-*.log
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+node_modules/
+cache/
+build/
+dist/
+
 .DS_Store
 .vscode
-node_modules
-dist
+.idea
+*.iml
+*.js.map
+.cache
+package-lock.json
+coverage
+.rts2_cache*
+
+yarn-debug.log*
+yarn-error.log*

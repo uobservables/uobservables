@@ -1,0 +1,22 @@
+{
+  "name": "@uobservables/react",
+  "version": "0.1.0",
+  "description": "react sub-package for uobservables",
+  "repository": "https://github.com/uobservables/uobservables/tree/master/packages/react",
+  "source": "src/index.ts",
+  "main": "dist/uobservables-react.cjs.js",
+  "module": "dist/uobservables-react.esm.js",
+  "author": "github.com/uobservables",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src",
+    "dist"
+  ]
+}

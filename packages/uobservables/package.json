@@ -1,0 +1,28 @@
+{
+  "name": "uobservables",
+  "version": "0.1.0",
+  "description": "uobservables: lightweight observables library for simple state management for vanilla JS, node.js or React apps",
+  "repository": "https://github.com/uobservables/uobservables",
+  "source": "src/index.ts",
+  "main": "dist/uobservables.cjs.js",
+  "module": "dist/uobservables.esm.js",
+  "umd:main": "dist/uobservables.umd.min.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+  },
+  "keywords": [],
+  "preconstruct": {
+    "umdName": "uobservables"
+  },
+  "files": [
+    "src",
+    "dist"
+  ]
+}
