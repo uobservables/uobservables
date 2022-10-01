@@ -1,7 +1,7 @@
 {
   "name": "uobservables",
   "version": "0.1.0",
-  "description": "uobservables: lightweight observables library for simple state management for vanilla JS, node.js or React apps",
+  "description": "uobservables: lightweight declarative state management for React, vanilla JS, or node.js",
   "repository": "https://github.com/uobservables/uobservables",
   "source": "src/index.ts",
   "main": "dist/uobservables.cjs.js",

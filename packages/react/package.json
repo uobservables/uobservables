@@ -1,7 +1,7 @@
 {
   "name": "@uobservables/react",
   "version": "0.1.0",
-  "description": "react sub-package for uobservables",
+  "description": "uobservables: lightweight declarative state management for React, vanilla JS, or node.js",
   "repository": "https://github.com/uobservables/uobservables/tree/master/packages/react",
   "source": "src/index.ts",
   "main": "dist/uobservables-react.cjs.js",

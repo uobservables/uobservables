@@ -1,7 +1,7 @@
 {
   "name": "@uobservables/core",
   "version": "0.1.0",
-  "description": "core sub-package for uobservables",
+  "description": "uobservables: lightweight declarative state management for React, vanilla JS, or node.js",
   "repository": "https://github.com/uobservables/uobservables/tree/master/packages/core",
   "source": "src/index.ts",
   "main": "dist/uobservables-core.cjs.js",
